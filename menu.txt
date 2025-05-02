@@ -1,0 +1,11 @@
+Porridge,5
+Noodle,5
+FriedRice,5
+Muffin,3
+Pancake,4
+Toast,3
+NasiLemak,4
+Milk,3
+Coffee,3
+Bread,3
+RedTea,3
