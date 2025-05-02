@@ -51,6 +51,36 @@ ld -m elf_i386 pos.o -o pos
 ./pos
 ```
 
+## Output Example
+
+### System Menu
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8dafb0aa-5710-43a3-802b-87ec17a3c6ca" width="50%">
+</div>
+
+### Order
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6970513b-c9ba-4b6d-b3d6-2221c60312a2" width="50%">
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fed5e4a2-8d32-4365-9726-51955d389302" width="50%">
+</div>
+
+### Modification
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f0df31e5-8045-48ad-8733-eedc429379a1" width="50%">
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/03770c2e-f40f-4d4a-a9ba-08d80be9c8c7" width="50%">
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9afa5507-1d9d-401b-9de0-36463edcc622" width="50%">
+</div>
+
+
 ## License
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
